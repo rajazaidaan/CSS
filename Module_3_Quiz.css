@@ -1,0 +1,17 @@
+   background-image:url("sample.png");
+
+   background-repeat:repeat-x;
+
+}
+
+a:hover
+
+{
+
+text-decoration:underline;
+
+color: #000000;
+
+cursor: crosshair;
+
+}

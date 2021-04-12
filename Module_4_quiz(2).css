@@ -1,0 +1,21 @@
+#red {
+
+position: absolute;
+
+top: 100px;
+
+left: 100px;
+
+z-index: 20;
+
+}
+
+#blue {
+
+position: relative;
+
+z-index: 50;
+
+display: none;
+
+}

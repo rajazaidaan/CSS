@@ -1,0 +1,7 @@
+.filtered {
+
+  filter: grayscale(100%)
+
+   drop-shadow(5px 9px 2px gray);
+
+}

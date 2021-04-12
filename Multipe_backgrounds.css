@@ -1,0 +1,9 @@
+.test {
+
+   background-image: url(1.jpg), url(2.jpg);
+
+   background-repeat: no-repeat;
+
+   background-position: left top, right top;
+
+}
